@@ -1,0 +1,15 @@
+dragen -f \
+    -r /path/to/your/reference/<Ref> \
+    --fastq-list <sampleName>_FastqList.csv \
+    --enable-variant-caller true \
+    --vc-emit-ref-confidence GVCF \
+    --output-directory /path/to/your/output/<sampleName> \
+    --trim-min-quality 15 \
+    --trim-adapter-read1 <illumina_adapter_r1.txt> \
+    --trim-adapter-read2 <illumina_adapter_r2.txt> \
+    --output-file-prefix <sampleName> \
+    --enable-duplicate-marking true \
+    --enable-map-align-output true \
+    --read-trimmers adapter,quality \
+    --trim-min-length 50 \
+    --enable-bam-indexing true
