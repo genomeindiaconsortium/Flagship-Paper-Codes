@@ -1,0 +1,1 @@
+The snippet of data used for generating this figure are embedded directly within the script. The complete figure was generated entirely using this code, including plotting, annotations, legend generation, and final formatting. Running the script produces the heatmap showing frequency differences of known GWAS risk alleles with global populations in Fig5A.

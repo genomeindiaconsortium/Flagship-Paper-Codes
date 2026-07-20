@@ -1,0 +1,345 @@
+Linguistic_group_Tribe	gene	phenotype	count	freq
+AA_Tribal	cftr	normal_metabolizer	601	100
+AA_Tribal	cyp2b6	intermediate_metabolizer	64	10.64891846921797
+AA_Tribal	cyp2b6	normal_metabolizer	523	87.0216306156406
+AA_Tribal	cyp2b6	rapid_metabolizer	11	1.8302828618968388
+AA_Tribal	cyp2b6	unknown_metabolizer	3	0.49916805324459235
+AA_Tribal	cyp2c19	intermediate_metabolizer	298	49.58402662229617
+AA_Tribal	cyp2c19	normal_metabolizer	144	23.960066555740433
+AA_Tribal	cyp2c19	poor_metabolizer	156	25.9567387687188
+AA_Tribal	cyp2c19	unknown_metabolizer	3	0.49916805324459235
+AA_Tribal	cyp2c9	intermediate_metabolizer	9	1.497504159733777
+AA_Tribal	cyp2c9	normal_metabolizer	579	96.33943427620633
+AA_Tribal	cyp2c9	unknown_metabolizer	13	2.1630615640599005
+AA_Tribal	cyp2d6	Indeterminate	32	5.324459234608985
+AA_Tribal	cyp2d6	Intermediate Metabolizer	143	23.793677204658902
+AA_Tribal	cyp2d6	Normal Metabolizer	284	47.25457570715474
+AA_Tribal	cyp2d6	Poor Metabolizer	14	2.329450915141431
+AA_Tribal	cyp2d6	Ultrarapid Metabolizer	5	0.8319467554076538
+AA_Tribal	cyp2d6	Unknown Metabolizer	106	17.637271214642265
+AA_Tribal	cyp2d6	normal_metabolizer	17	2.828618968386023
+AA_Tribal	cyp3a5	intermediate_metabolizer	301	50.08319467554077
+AA_Tribal	cyp3a5	normal_metabolizer	181	30.116472545757073
+AA_Tribal	cyp3a5	poor_metabolizer	119	19.800332778702163
+AA_Tribal	cyp4f2	intermediate_metabolizer	146	24.292845257903494
+AA_Tribal	cyp4f2	normal_metabolizer	455	75.7071547420965
+AA_Tribal	dpyd	intermediate_metabolizer	3	0.49916805324459235
+AA_Tribal	dpyd	normal_metabolizer	598	99.50083194675541
+AA_Tribal	ifnl3	favorable_response	601	100
+AA_Tribal	nudt15	intermediate_metabolizer	15	2.4958402662229617
+AA_Tribal	nudt15	normal_metabolizer	586	97.50415973377704
+AA_Tribal	slco1b1	decreased_function	110	18.302828618968388
+AA_Tribal	slco1b1	increased_function	110	18.302828618968388
+AA_Tribal	slco1b1	normal_function	364	60.56572379367721
+AA_Tribal	slco1b1	poor_function	6	0.9983361064891847
+AA_Tribal	slco1b1	unknown_function	11	1.8302828618968388
+AA_Tribal	tpmt	intermediate_metabolizer	34	5.657237936772046
+AA_Tribal	tpmt	normal_metabolizer	563	93.67720465890183
+AA_Tribal	tpmt	poor_metabolizer	1	0.16638935108153077
+AA_Tribal	tpmt	unknown_metabolizer	3	0.49916805324459235
+AA_Tribal	ugt1a1	intermediate_metabolizer	233	38.76871880199667
+AA_Tribal	ugt1a1	normal_metabolizer	112	18.63560732113145
+AA_Tribal	ugt1a1	unknown_metabolizer	256	42.59567387687188
+AA_Tribal	vkorc1	normal_metabolizer	583	97.00499168053244
+AA_Tribal	vkorc1	unknown_metabolizer	18	2.995008319467554
+CAO	cftr	intermediate_metabolizer	1	2
+CAO	cftr	normal_metabolizer	49	98
+CAO	cyp2b6	intermediate_metabolizer	15	30
+CAO	cyp2b6	normal_metabolizer	35	70
+CAO	cyp2c19	intermediate_metabolizer	21	42
+CAO	cyp2c19	normal_metabolizer	27	54
+CAO	cyp2c19	poor_metabolizer	2	4
+CAO	cyp2c9	intermediate_metabolizer	1	2
+CAO	cyp2c9	normal_metabolizer	47	94
+CAO	cyp2c9	unknown_metabolizer	2	4
+CAO	cyp2d6	intermediate_metabolizer	1	2
+CAO	cyp2d6	normal_metabolizer	30	60
+CAO	cyp2d6	unknown_metabolizer	19	38
+CAO	cyp3a5	intermediate_metabolizer	22	44
+CAO	cyp3a5	normal_metabolizer	3	6
+CAO	cyp3a5	poor_metabolizer	25	50
+CAO	cyp4f2	intermediate_metabolizer	2	4
+CAO	cyp4f2	normal_metabolizer	48	96
+CAO	dpyd	intermediate_metabolizer	1	2
+CAO	dpyd	normal_metabolizer	49	98
+CAO	ifnl3	favorable_response	50	100
+CAO	nudt15	normal_metabolizer	43	86
+CAO	nudt15	unknown_metabolizer	7	14.000000000000002
+CAO	slco1b1	decreased_function	4	8
+CAO	slco1b1	increased_function	13	26
+CAO	slco1b1	normal_function	32	64
+CAO	slco1b1	poor_function	1	2
+CAO	tpmt	normal_metabolizer	50	100
+CAO	ugt1a1	intermediate_metabolizer	26	52
+CAO	ugt1a1	normal_metabolizer	10	20
+CAO	ugt1a1	unknown_metabolizer	14	28.000000000000004
+CAO	vkorc1	normal_metabolizer	40	80
+CAO	vkorc1	unknown_metabolizer	10	20
+DR_Non_Tribal	cftr	intermediate_metabolizer	2	0.11055831951354339
+DR_Non_Tribal	cftr	normal_metabolizer	1777	98.2310668877833
+DR_Non_Tribal	cftr	unknown_metabolizer	30	1.658374792703151
+DR_Non_Tribal	cyp2b6	intermediate_metabolizer	282	15.58872305140962
+DR_Non_Tribal	cyp2b6	normal_metabolizer	1444	79.82310668877834
+DR_Non_Tribal	cyp2b6	rapid_metabolizer	55	3.0403537866224433
+DR_Non_Tribal	cyp2b6	ultrarapid_metabolizer	2	0.11055831951354339
+DR_Non_Tribal	cyp2b6	unknown_metabolizer	26	1.4372581536760642
+DR_Non_Tribal	cyp2c19	intermediate_metabolizer	877	48.47982310668878
+DR_Non_Tribal	cyp2c19	normal_metabolizer	639	35.32338308457712
+DR_Non_Tribal	cyp2c19	poor_metabolizer	272	15.035931453841902
+DR_Non_Tribal	cyp2c19	unknown_metabolizer	21	1.1608623548922055
+DR_Non_Tribal	cyp2c9	intermediate_metabolizer	30	1.658374792703151
+DR_Non_Tribal	cyp2c9	normal_metabolizer	1737	96.01990049751244
+DR_Non_Tribal	cyp2c9	unknown_metabolizer	42	2.321724709784411
+DR_Non_Tribal	cyp2d6	Indeterminate	190	10.503040353786622
+DR_Non_Tribal	cyp2d6	Intermediate Metabolizer	409	22.609176340519625
+DR_Non_Tribal	cyp2d6	Normal Metabolizer	997	55.11332227750139
+DR_Non_Tribal	cyp2d6	Poor Metabolizer	29	1.6030956329463792
+DR_Non_Tribal	cyp2d6	Ultrarapid Metabolizer	35	1.9347705914870093
+DR_Non_Tribal	cyp2d6	Unknown Metabolizer	83	4.588170259812051
+DR_Non_Tribal	cyp2d6	intermediate_metabolizer	5	0.2763957987838585
+DR_Non_Tribal	cyp2d6	normal_metabolizer	52	2.8745163073521285
+DR_Non_Tribal	cyp2d6	unknown_metabolizer	9	0.4975124378109453
+DR_Non_Tribal	cyp3a5	intermediate_metabolizer	704	38.916528468767275
+DR_Non_Tribal	cyp3a5	normal_metabolizer	196	10.834715312327253
+DR_Non_Tribal	cyp3a5	poor_metabolizer	909	50.24875621890548
+DR_Non_Tribal	cyp4f2	intermediate_metabolizer	361	19.955776672194585
+DR_Non_Tribal	cyp4f2	normal_metabolizer	1448	80.04422332780543
+DR_Non_Tribal	dpyd	intermediate_metabolizer	22	1.2161415146489774
+DR_Non_Tribal	dpyd	normal_metabolizer	1787	98.78385848535103
+DR_Non_Tribal	ifnl3	favorable_response	1809	100
+DR_Non_Tribal	nudt15	intermediate_metabolizer	19	1.0503040353786623
+DR_Non_Tribal	nudt15	normal_metabolizer	1790	98.94969596462134
+DR_Non_Tribal	slco1b1	decreased_function	221	12.216694306246545
+DR_Non_Tribal	slco1b1	increased_function	256	14.151464897733554
+DR_Non_Tribal	slco1b1	normal_function	1297	71.69707020453289
+DR_Non_Tribal	slco1b1	poor_function	17	0.9397457158651189
+DR_Non_Tribal	slco1b1	unknown_function	18	0.9950248756218906
+DR_Non_Tribal	tpmt	intermediate_metabolizer	55	3.0403537866224433
+DR_Non_Tribal	tpmt	normal_metabolizer	1749	96.6832504145937
+DR_Non_Tribal	tpmt	unknown_metabolizer	5	0.2763957987838585
+DR_Non_Tribal	ugt1a1	intermediate_metabolizer	743	41.07241569928137
+DR_Non_Tribal	ugt1a1	normal_metabolizer	300	16.58374792703151
+DR_Non_Tribal	ugt1a1	unknown_metabolizer	766	42.34383637368712
+DR_Non_Tribal	vkorc1	normal_metabolizer	1491	82.4212271973466
+DR_Non_Tribal	vkorc1	unknown_metabolizer	318	17.5787728026534
+DR_Tribal	cftr	normal_metabolizer	534	99.6268656716418
+DR_Tribal	cftr	unknown_metabolizer	2	0.3731343283582089
+DR_Tribal	cyp2b6	intermediate_metabolizer	102	19.029850746268657
+DR_Tribal	cyp2b6	normal_metabolizer	395	73.69402985074626
+DR_Tribal	cyp2b6	rapid_metabolizer	15	2.798507462686567
+DR_Tribal	cyp2b6	unknown_metabolizer	24	4.477611940298507
+DR_Tribal	cyp2c19	intermediate_metabolizer	239	44.58955223880597
+DR_Tribal	cyp2c19	normal_metabolizer	161	30.037313432835823
+DR_Tribal	cyp2c19	poor_metabolizer	128	23.88059701492537
+DR_Tribal	cyp2c19	unknown_metabolizer	8	1.4925373134328357
+DR_Tribal	cyp2c9	intermediate_metabolizer	6	1.1194029850746268
+DR_Tribal	cyp2c9	normal_metabolizer	507	94.58955223880598
+DR_Tribal	cyp2c9	unknown_metabolizer	23	4.291044776119403
+DR_Tribal	cyp2d6	Indeterminate	89	16.6044776119403
+DR_Tribal	cyp2d6	Intermediate Metabolizer	110	20.522388059701495
+DR_Tribal	cyp2d6	Normal Metabolizer	278	51.865671641791046
+DR_Tribal	cyp2d6	Poor Metabolizer	4	0.7462686567164178
+DR_Tribal	cyp2d6	Ultrarapid Metabolizer	7	1.3059701492537312
+DR_Tribal	cyp2d6	Unknown Metabolizer	30	5.597014925373134
+DR_Tribal	cyp2d6	intermediate_metabolizer	1	0.18656716417910446
+DR_Tribal	cyp2d6	normal_metabolizer	16	2.9850746268656714
+DR_Tribal	cyp2d6	unknown_metabolizer	1	0.18656716417910446
+DR_Tribal	cyp3a5	intermediate_metabolizer	270	50.373134328358205
+DR_Tribal	cyp3a5	normal_metabolizer	146	27.238805970149254
+DR_Tribal	cyp3a5	poor_metabolizer	120	22.388059701492537
+DR_Tribal	cyp4f2	intermediate_metabolizer	165	30.783582089552237
+DR_Tribal	cyp4f2	normal_metabolizer	371	69.21641791044776
+DR_Tribal	dpyd	intermediate_metabolizer	2	0.3731343283582089
+DR_Tribal	dpyd	normal_metabolizer	534	99.6268656716418
+DR_Tribal	ifnl3	favorable_response	536	100
+DR_Tribal	nudt15	intermediate_metabolizer	6	1.1194029850746268
+DR_Tribal	nudt15	normal_metabolizer	530	98.88059701492537
+DR_Tribal	slco1b1	decreased_function	58	10.820895522388058
+DR_Tribal	slco1b1	increased_function	74	13.805970149253731
+DR_Tribal	slco1b1	normal_function	383	71.45522388059702
+DR_Tribal	slco1b1	poor_function	4	0.7462686567164178
+DR_Tribal	slco1b1	unknown_function	17	3.171641791044776
+DR_Tribal	tpmt	intermediate_metabolizer	4	0.7462686567164178
+DR_Tribal	tpmt	normal_metabolizer	529	98.69402985074626
+DR_Tribal	tpmt	unknown_metabolizer	3	0.5597014925373134
+DR_Tribal	ugt1a1	intermediate_metabolizer	172	32.08955223880597
+DR_Tribal	ugt1a1	normal_metabolizer	68	12.686567164179104
+DR_Tribal	ugt1a1	unknown_metabolizer	296	55.223880597014926
+DR_Tribal	vkorc1	normal_metabolizer	493	91.97761194029852
+DR_Tribal	vkorc1	unknown_metabolizer	43	8.022388059701493
+IE_Non_Tribal	cftr	intermediate_metabolizer	5	0.09191176470588235
+IE_Non_Tribal	cftr	normal_metabolizer	5376	98.82352941176471
+IE_Non_Tribal	cftr	unknown_metabolizer	59	1.0845588235294117
+IE_Non_Tribal	cyp2b6	intermediate_metabolizer	855	15.716911764705882
+IE_Non_Tribal	cyp2b6	normal_metabolizer	4330	79.59558823529412
+IE_Non_Tribal	cyp2b6	rapid_metabolizer	181	3.327205882352941
+IE_Non_Tribal	cyp2b6	ultrarapid_metabolizer	12	0.22058823529411764
+IE_Non_Tribal	cyp2b6	unknown_metabolizer	62	1.1397058823529411
+IE_Non_Tribal	cyp2c19	intermediate_metabolizer	2407	44.24632352941176
+IE_Non_Tribal	cyp2c19	normal_metabolizer	2239	41.158088235294116
+IE_Non_Tribal	cyp2c19	poor_metabolizer	701	12.886029411764705
+IE_Non_Tribal	cyp2c19	unknown_metabolizer	93	1.709558823529412
+IE_Non_Tribal	cyp2c9	intermediate_metabolizer	121	2.224264705882353
+IE_Non_Tribal	cyp2c9	normal_metabolizer	5140	94.48529411764706
+IE_Non_Tribal	cyp2c9	unknown_metabolizer	179	3.2904411764705883
+IE_Non_Tribal	cyp2d6	Indeterminate	276	5.0707330516259415
+IE_Non_Tribal	cyp2d6	Intermediate Metabolizer	1050	19.29083226162043
+IE_Non_Tribal	cyp2d6	Normal Metabolizer	2504	46.00404188866434
+IE_Non_Tribal	cyp2d6	Poor Metabolizer	66	1.2125665993018555
+IE_Non_Tribal	cyp2d6	Ultrarapid Metabolizer	90	1.653499908138894
+IE_Non_Tribal	cyp2d6	Unknown Metabolizer	390	7.165166268601873
+IE_Non_Tribal	cyp2d6	intermediate_metabolizer	26	0.4776777512401249
+IE_Non_Tribal	cyp2d6	normal_metabolizer	1005	18.46408230755098
+IE_Non_Tribal	cyp2d6	poor_metabolizer	1	0.01837222120154327
+IE_Non_Tribal	cyp2d6	unknown_metabolizer	35	0.6430277420540144
+IE_Non_Tribal	cyp3a5	intermediate_metabolizer	2306	42.38970588235294
+IE_Non_Tribal	cyp3a5	normal_metabolizer	488	8.970588235294118
+IE_Non_Tribal	cyp3a5	poor_metabolizer	2646	48.63970588235294
+IE_Non_Tribal	cyp4f2	intermediate_metabolizer	900	16.544117647058822
+IE_Non_Tribal	cyp4f2	normal_metabolizer	4540	83.45588235294117
+IE_Non_Tribal	dpyd	intermediate_metabolizer	43	0.7904411764705882
+IE_Non_Tribal	dpyd	normal_metabolizer	5397	99.2095588235294
+IE_Non_Tribal	ifnl3	favorable_response	5440	100
+IE_Non_Tribal	nudt15	intermediate_metabolizer	24	0.4411764705882353
+IE_Non_Tribal	nudt15	normal_metabolizer	5416	99.55882352941177
+IE_Non_Tribal	slco1b1	decreased_function	369	6.783088235294117
+IE_Non_Tribal	slco1b1	increased_function	879	16.15808823529412
+IE_Non_Tribal	slco1b1	normal_function	4145	76.19485294117648
+IE_Non_Tribal	slco1b1	poor_function	14	0.25735294117647056
+IE_Non_Tribal	slco1b1	unknown_function	33	0.6066176470588236
+IE_Non_Tribal	tpmt	intermediate_metabolizer	191	3.511029411764706
+IE_Non_Tribal	tpmt	normal_metabolizer	5231	96.15808823529412
+IE_Non_Tribal	tpmt	poor_metabolizer	2	0.03676470588235294
+IE_Non_Tribal	tpmt	unknown_metabolizer	16	0.29411764705882354
+IE_Non_Tribal	ugt1a1	intermediate_metabolizer	2042	37.536764705882355
+IE_Non_Tribal	ugt1a1	normal_metabolizer	1047	19.246323529411764
+IE_Non_Tribal	ugt1a1	unknown_metabolizer	2351	43.216911764705884
+IE_Non_Tribal	vkorc1	normal_metabolizer	4435	81.52573529411765
+IE_Non_Tribal	vkorc1	unknown_metabolizer	1005	18.474264705882355
+IE_Tribal	cftr	intermediate_metabolizer	2	0.2805049088359046
+IE_Tribal	cftr	normal_metabolizer	707	99.15848527349227
+IE_Tribal	cftr	unknown_metabolizer	4	0.5610098176718092
+IE_Tribal	cyp2b6	intermediate_metabolizer	124	17.391304347826086
+IE_Tribal	cyp2b6	normal_metabolizer	569	79.80364656381487
+IE_Tribal	cyp2b6	rapid_metabolizer	17	2.3842917251051894
+IE_Tribal	cyp2b6	unknown_metabolizer	3	0.42075736325385693
+IE_Tribal	cyp2c19	intermediate_metabolizer	319	44.74053295932679
+IE_Tribal	cyp2c19	normal_metabolizer	273	38.288920056100984
+IE_Tribal	cyp2c19	poor_metabolizer	113	15.848527349228611
+IE_Tribal	cyp2c19	unknown_metabolizer	8	1.1220196353436185
+IE_Tribal	cyp2c9	intermediate_metabolizer	15	2.1037868162692845
+IE_Tribal	cyp2c9	normal_metabolizer	676	94.81065918653576
+IE_Tribal	cyp2c9	unknown_metabolizer	22	3.0855539971949506
+IE_Tribal	cyp2d6	Indeterminate	28	3.9215686274509802
+IE_Tribal	cyp2d6	Intermediate Metabolizer	127	17.787114845938376
+IE_Tribal	cyp2d6	Normal Metabolizer	262	36.69467787114846
+IE_Tribal	cyp2d6	Poor Metabolizer	16	2.2408963585434174
+IE_Tribal	cyp2d6	Ultrarapid Metabolizer	10	1.400560224089636
+IE_Tribal	cyp2d6	Unknown Metabolizer	70	9.803921568627452
+IE_Tribal	cyp2d6	intermediate_metabolizer	7	0.9803921568627451
+IE_Tribal	cyp2d6	normal_metabolizer	188	26.330532212885156
+IE_Tribal	cyp2d6	unknown_metabolizer	6	0.8403361344537815
+IE_Tribal	cyp3a5	intermediate_metabolizer	303	42.49649368863955
+IE_Tribal	cyp3a5	normal_metabolizer	112	15.708274894810659
+IE_Tribal	cyp3a5	poor_metabolizer	298	41.79523141654979
+IE_Tribal	cyp4f2	intermediate_metabolizer	157	22.019635343618514
+IE_Tribal	cyp4f2	normal_metabolizer	556	77.98036465638148
+IE_Tribal	dpyd	intermediate_metabolizer	5	0.7012622720897616
+IE_Tribal	dpyd	normal_metabolizer	708	99.29873772791024
+IE_Tribal	ifnl3	favorable_response	713	100
+IE_Tribal	nudt15	intermediate_metabolizer	9	1.262272089761571
+IE_Tribal	nudt15	normal_metabolizer	704	98.73772791023842
+IE_Tribal	slco1b1	decreased_function	78	10.93969144460028
+IE_Tribal	slco1b1	increased_function	104	14.586255259467041
+IE_Tribal	slco1b1	normal_function	529	74.19354838709677
+IE_Tribal	slco1b1	poor_function	1	0.1402524544179523
+IE_Tribal	slco1b1	unknown_function	1	0.1402524544179523
+IE_Tribal	tpmt	intermediate_metabolizer	36	5.049088359046284
+IE_Tribal	tpmt	normal_metabolizer	675	94.67040673211781
+IE_Tribal	tpmt	unknown_metabolizer	2	0.2805049088359046
+IE_Tribal	ugt1a1	intermediate_metabolizer	278	38.99018232819074
+IE_Tribal	ugt1a1	normal_metabolizer	86	12.0617110799439
+IE_Tribal	ugt1a1	unknown_metabolizer	349	48.94810659186536
+IE_Tribal	vkorc1	normal_metabolizer	593	83.16970546984572
+IE_Tribal	vkorc1	unknown_metabolizer	120	16.830294530154276
+TB_Non_Tribal	cftr	normal_metabolizer	158	99.37106918238993
+TB_Non_Tribal	cftr	unknown_metabolizer	1	0.628930817610063
+TB_Non_Tribal	cyp2b6	intermediate_metabolizer	13	8.176100628930817
+TB_Non_Tribal	cyp2b6	normal_metabolizer	138	86.79245283018868
+TB_Non_Tribal	cyp2b6	rapid_metabolizer	8	5.031446540880504
+TB_Non_Tribal	cyp2c19	intermediate_metabolizer	69	43.39622641509434
+TB_Non_Tribal	cyp2c19	normal_metabolizer	76	47.79874213836478
+TB_Non_Tribal	cyp2c19	poor_metabolizer	13	8.176100628930817
+TB_Non_Tribal	cyp2c19	unknown_metabolizer	1	0.628930817610063
+TB_Non_Tribal	cyp2c9	intermediate_metabolizer	1	0.628930817610063
+TB_Non_Tribal	cyp2c9	normal_metabolizer	158	99.37106918238993
+TB_Non_Tribal	cyp2d6	Indeterminate	2	1.257861635220126
+TB_Non_Tribal	cyp2d6	Intermediate Metabolizer	28	17.61006289308176
+TB_Non_Tribal	cyp2d6	Normal Metabolizer	67	42.138364779874216
+TB_Non_Tribal	cyp2d6	Ultrarapid Metabolizer	1	0.628930817610063
+TB_Non_Tribal	cyp2d6	Unknown Metabolizer	61	38.36477987421384
+TB_Non_Tribal	cyp3a5	intermediate_metabolizer	57	35.84905660377358
+TB_Non_Tribal	cyp3a5	normal_metabolizer	15	9.433962264150944
+TB_Non_Tribal	cyp3a5	poor_metabolizer	87	54.71698113207547
+TB_Non_Tribal	cyp4f2	intermediate_metabolizer	20	12.578616352201259
+TB_Non_Tribal	cyp4f2	normal_metabolizer	139	87.42138364779875
+TB_Non_Tribal	dpyd	normal_metabolizer	159	100
+TB_Non_Tribal	ifnl3	favorable_response	159	100
+TB_Non_Tribal	nudt15	intermediate_metabolizer	10	6.289308176100629
+TB_Non_Tribal	nudt15	normal_metabolizer	149	93.71069182389937
+TB_Non_Tribal	slco1b1	decreased_function	27	16.9811320754717
+TB_Non_Tribal	slco1b1	increased_function	4	2.515723270440252
+TB_Non_Tribal	slco1b1	normal_function	124	77.9874213836478
+TB_Non_Tribal	slco1b1	poor_function	3	1.8867924528301887
+TB_Non_Tribal	slco1b1	unknown_function	1	0.628930817610063
+TB_Non_Tribal	tpmt	intermediate_metabolizer	7	4.40251572327044
+TB_Non_Tribal	tpmt	normal_metabolizer	150	94.33962264150944
+TB_Non_Tribal	tpmt	poor_metabolizer	1	0.628930817610063
+TB_Non_Tribal	tpmt	unknown_metabolizer	1	0.628930817610063
+TB_Non_Tribal	ugt1a1	intermediate_metabolizer	54	33.9622641509434
+TB_Non_Tribal	ugt1a1	normal_metabolizer	13	8.176100628930817
+TB_Non_Tribal	ugt1a1	unknown_metabolizer	92	57.861635220125784
+TB_Non_Tribal	vkorc1	normal_metabolizer	157	98.74213836477988
+TB_Non_Tribal	vkorc1	unknown_metabolizer	2	1.257861635220126
+TB_Tribal	cftr	normal_metabolizer	459	99.78260869565217
+TB_Tribal	cftr	unknown_metabolizer	1	0.21739130434782608
+TB_Tribal	cyp2b6	intermediate_metabolizer	21	4.565217391304348
+TB_Tribal	cyp2b6	normal_metabolizer	411	89.34782608695652
+TB_Tribal	cyp2b6	rapid_metabolizer	27	5.869565217391305
+TB_Tribal	cyp2b6	ultrarapid_metabolizer	1	0.21739130434782608
+TB_Tribal	cyp2c19	intermediate_metabolizer	200	43.47826086956522
+TB_Tribal	cyp2c19	normal_metabolizer	194	42.173913043478265
+TB_Tribal	cyp2c19	poor_metabolizer	66	14.347826086956522
+TB_Tribal	cyp2c9	intermediate_metabolizer	1	0.21739130434782608
+TB_Tribal	cyp2c9	normal_metabolizer	450	97.82608695652173
+TB_Tribal	cyp2c9	unknown_metabolizer	9	1.956521739130435
+TB_Tribal	cyp2d6	Indeterminate	2	0.43478260869565216
+TB_Tribal	cyp2d6	Intermediate Metabolizer	74	16.08695652173913
+TB_Tribal	cyp2d6	Normal Metabolizer	145	31.521739130434785
+TB_Tribal	cyp2d6	Poor Metabolizer	9	1.956521739130435
+TB_Tribal	cyp2d6	Ultrarapid Metabolizer	3	0.6521739130434783
+TB_Tribal	cyp2d6	Unknown Metabolizer	163	35.434782608695656
+TB_Tribal	cyp2d6	normal_metabolizer	64	13.91304347826087
+TB_Tribal	cyp3a5	intermediate_metabolizer	166	36.08695652173913
+TB_Tribal	cyp3a5	normal_metabolizer	61	13.260869565217392
+TB_Tribal	cyp3a5	poor_metabolizer	233	50.65217391304348
+TB_Tribal	cyp4f2	intermediate_metabolizer	32	6.956521739130435
+TB_Tribal	cyp4f2	normal_metabolizer	428	93.04347826086956
+TB_Tribal	dpyd	intermediate_metabolizer	5	1.0869565217391304
+TB_Tribal	dpyd	normal_metabolizer	455	98.91304347826086
+TB_Tribal	ifnl3	favorable_response	460	100
+TB_Tribal	nudt15	intermediate_metabolizer	18	3.91304347826087
+TB_Tribal	nudt15	normal_metabolizer	442	96.08695652173913
+TB_Tribal	slco1b1	decreased_function	65	14.130434782608695
+TB_Tribal	slco1b1	increased_function	28	6.086956521739131
+TB_Tribal	slco1b1	normal_function	362	78.69565217391305
+TB_Tribal	slco1b1	poor_function	4	0.8695652173913043
+TB_Tribal	slco1b1	unknown_function	1	0.21739130434782608
+TB_Tribal	tpmt	intermediate_metabolizer	19	4.130434782608695
+TB_Tribal	tpmt	normal_metabolizer	437	95
+TB_Tribal	tpmt	unknown_metabolizer	4	0.8695652173913043
+TB_Tribal	ugt1a1	intermediate_metabolizer	124	26.956521739130434
+TB_Tribal	ugt1a1	normal_metabolizer	68	14.782608695652174
+TB_Tribal	ugt1a1	unknown_metabolizer	268	58.26086956521739
+TB_Tribal	vkorc1	normal_metabolizer	447	97.17391304347827
+TB_Tribal	vkorc1	unknown_metabolizer	13	2.8260869565217392
