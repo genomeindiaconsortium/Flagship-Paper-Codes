@@ -1,6 +1,6 @@
 # GenomeIndia Analysis & Code Repository
 
-Welcome to the analytical codebase for the **GenomeIndia** project. This repository contains the complete suite of pipelines, downstream analysis scripts, and visualization code used to process, annotate, and analyze population-scale whole-genome sequencing (WGS) data.
+Welcome to the analytical codebase for the **GenomeIndia** flagship paper. This repository contains the complete suite of pipelines, downstream analysis scripts, and visualization code used to process, annotate, and analyze population-scale whole-genome sequencing (WGS) data.
 
 ---
 
